@@ -2,7 +2,7 @@
 Sistematização - POO
 
 
-Trata-se de um sistema para gerenciamento de entregadores de uma empresa de logística
+Trata-se de uma aplicação para gerenciamento de entregadores de uma empresa de logística
 Intruções para utilização:
 
 Para incluir um entregador:
