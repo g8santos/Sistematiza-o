@@ -2,8 +2,9 @@
 Sistematização - POO
 
 
-Trata-se de uma aplicação para gerenciamento de entregadores de uma empresa de logística
-Intruções para utilização:
+Trata-se de uma aplicação para gerenciamento de entregadores de uma empresa de logística.
+
+- Intruções para utilização:
 
 Para incluir um entregador:
 - URI: http://localhost:8080/entregadores
