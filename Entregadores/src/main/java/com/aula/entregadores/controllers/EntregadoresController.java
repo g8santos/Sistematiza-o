@@ -14,10 +14,10 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.aula.entregadores.dto.EntregadorDto;
 import com.aula.entregadores.models.EntregadorModel;
 import com.aula.entregadores.repositories.EntregadorRepository;
 
-import EntregadoresDto.EntregadorDto;
 import jakarta.validation.Valid;
 
 @RestController

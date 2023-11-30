@@ -1,4 +1,4 @@
-package EntregadoresDto;
+package com.aula.entregadores.dto;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
