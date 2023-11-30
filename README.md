@@ -22,7 +22,7 @@ Para excluir um entregador
 - URI: http://localhost:8080/entregadores/{id}
 - Método: DELETE
 
-Para alterar um filme
+Para alterar um entregador
 - URI: http://localhost:8080/entregadores/{id}
 - Método: PUT
 - Formulário JSON: id, veículo, matrícula, capacidade de carga, nome.
