@@ -8,4 +8,5 @@ import com.aula.entregadores.models.EntregadorModel;
 @Repository
 public interface EntregadorRepository extends JpaRepository<EntregadorModel, Integer>{
 
+
 }
